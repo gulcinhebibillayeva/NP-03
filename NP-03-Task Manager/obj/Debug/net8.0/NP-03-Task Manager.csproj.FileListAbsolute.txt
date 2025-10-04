@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\NP-03-Task Manager\bin\Debug\net8.0\NP-03-Task Manager.exe
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\NP-03-Task Manager\bin\Debug\net8.0\NP-03-Task Manager.deps.json
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\NP-03-Task Manager\bin\Debug\net8.0\NP-03-Task Manager.runtimeconfig.json
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\NP-03-Task Manager\bin\Debug\net8.0\NP-03-Task Manager.dll
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\NP-03-Task Manager\bin\Debug\net8.0\NP-03-Task Manager.pdb
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\NP-03-Task Manager\obj\Debug\net8.0\NP-03-Task Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\NP-03-Task Manager\obj\Debug\net8.0\NP-03-Task Manager.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\NP-03-Task Manager\obj\Debug\net8.0\NP-03-Task Manager.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\NP-03-Task Manager\obj\Debug\net8.0\NP-03-Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\NP-03-Task Manager\obj\Debug\net8.0\NP-03-Task Manager.dll
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\NP-03-Task Manager\obj\Debug\net8.0\refint\NP-03-Task Manager.dll
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\NP-03-Task Manager\obj\Debug\net8.0\NP-03-Task Manager.pdb
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\NP-03-Task Manager\obj\Debug\net8.0\NP-03-Task Manager.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\NP-03-Task Manager\obj\Debug\net8.0\ref\NP-03-Task Manager.dll

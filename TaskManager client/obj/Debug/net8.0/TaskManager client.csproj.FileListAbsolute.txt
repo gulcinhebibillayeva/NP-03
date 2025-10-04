@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\TaskManager client\bin\Debug\net8.0\TaskManager client.exe
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\TaskManager client\bin\Debug\net8.0\TaskManager client.deps.json
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\TaskManager client\bin\Debug\net8.0\TaskManager client.runtimeconfig.json
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\TaskManager client\bin\Debug\net8.0\TaskManager client.dll
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\TaskManager client\bin\Debug\net8.0\TaskManager client.pdb
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\TaskManager client\obj\Debug\net8.0\TaskManager client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\TaskManager client\obj\Debug\net8.0\TaskManager client.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\TaskManager client\obj\Debug\net8.0\TaskManager client.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\TaskManager client\obj\Debug\net8.0\TaskManager client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\TaskManager client\obj\Debug\net8.0\TaskManager client.dll
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\TaskManager client\obj\Debug\net8.0\refint\TaskManager client.dll
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\TaskManager client\obj\Debug\net8.0\TaskManager client.pdb
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\TaskManager client\obj\Debug\net8.0\TaskManager client.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Step\c#\Tasks\NP-1\TaskManager client\obj\Debug\net8.0\ref\TaskManager client.dll
